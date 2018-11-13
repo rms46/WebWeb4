@@ -1,4 +1,4 @@
-## 005 Welcome to GitHub Pages
+## 006 Welcome to GitHub Pages
 
 [https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
