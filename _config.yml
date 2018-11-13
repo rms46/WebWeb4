@@ -1,1 +1,23 @@
 theme: jekyll-theme-midnight
+
+# CAN CHANGE
+# theme: jekyll-theme-primer
+# github: [metadata]
+# encoding: UTF-8
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+# future: true
+# jailed: false
+# gfm_quirks: paragraph_end
+# CAN NOT CHANGE
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
