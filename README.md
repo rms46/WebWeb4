@@ -1,7 +1,6 @@
-## 001 Welcome to GitHub Pages
+## 002 Welcome to GitHub Pages
 
-[https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/]
-(https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+[https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
 You can use the [editor on GitHub](https://github.com/rms46/WebWeb4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
