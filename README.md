@@ -1,6 +1,3 @@
----
----
-
 # 011 Welcome to GitHub Pages
 
 ## JEKYLL
