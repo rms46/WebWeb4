@@ -1,6 +1,21 @@
-## 002 Welcome to GitHub Pages
+## 003 Welcome to GitHub Pages
 
 [https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+[http://kbroman.org/simple_site/pages/local_test.html](http://kbroman.org/simple_site/pages/local_test.html)
+
+[https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237)
+
+[https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
+
+[https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292)
+
+[https://www.sylvaindurand.org/using-github-to-serve-jekyll/](https://www.sylvaindurand.org/using-github-to-serve-jekyll/)
+
+[https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
+[https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
 
 You can use the [editor on GitHub](https://github.com/rms46/WebWeb4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
