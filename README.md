@@ -6,7 +6,22 @@
 
 [Jekyll Plugins](https://help.github.com/articles/configuring-jekyll-plugins/)
 
+[Jekyll Tutorials](https://lab.github.com/)
+
+[Github Pages Basics](https://help.github.com/categories/github-pages-basics/)
+
+[Customizing Github Pages](https://help.github.com/categories/customizing-github-pages/)
+
+[Troubleshooting Github Pages](https://help.github.com/articles/troubleshooting-github-pages-builds/)
+
+[Learning Lab](https://lab.github.com/)
+
+[Midnight Theme](https://github.com/pages-themes/midnight)
+
+
 ## ETC
+
+[Markdown Cheat Sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
 
 [https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
