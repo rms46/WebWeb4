@@ -1,4 +1,4 @@
-title: There is a Place (068)
+title: There is a Place (069)
 description: > 
    Where I can go...
    When I feel low...
@@ -14,6 +14,9 @@ encoding: UTF-8
 timezone: Asia/Jakarta
 
 show_downloads: true
+
+# Google Analytics
+google_analytics: UA-89852122-1
 
 # CAN CHANGE
 # theme: jekyll-theme-primer
