@@ -1,4 +1,4 @@
-# 015 Welcome to GitHub Pages
+# 016 Welcome to GitHub Pages
 
 ## JEKYLL
 
@@ -18,33 +18,36 @@
 
 [Midnight Theme](https://github.com/pages-themes/midnight)
 
+[Customizing CSS and HTML in your Jekyll theme](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
 
-## ETC
-
-[Markdown Cheat Sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
-
-[https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
-
-[https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-
-[https://help.github.com/articles/configuring-jekyll/](https://help.github.com/articles/configuring-jekyll/)
-
-[http://kbroman.org/simple_site/pages/local_test.html](http://kbroman.org/simple_site/pages/local_test.html)
-
-[https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237)
-
-[https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
-
-[https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292)
+[Repository metadata on GitHub Pages](https://help.github.com/articles/repository-metadata-on-github-pages/)
 
 
 ## Readings
+
+Getting started with GitHub Pages: 
+([Part 1](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237))
+([Part 2](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030))
+([Part 3](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292))
 
 [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
 [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
 [Using Github to serve Jekyll](https://www.sylvaindurand.org/using-github-to-serve-jekyll/)
+
+
+## ETC
+
+[Markdown Cheat Sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
+
+[How To Install Ruby and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
+
+[Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+[Configuring Jekyll](https://help.github.com/articles/configuring-jekyll/)
+
+[Testing your site locally](http://kbroman.org/simple_site/pages/local_test.html)
 
 
 ## GitHub
