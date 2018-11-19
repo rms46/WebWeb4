@@ -1,4 +1,4 @@
-# 014 Welcome to GitHub Pages
+# 015 Welcome to GitHub Pages
 
 ## JEKYLL
 
@@ -37,12 +37,17 @@
 
 [https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292)
 
-[https://www.sylvaindurand.org/using-github-to-serve-jekyll/](https://www.sylvaindurand.org/using-github-to-serve-jekyll/)
 
-[https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+## Readings
 
-[https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+[Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
+[Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
+[Using Github to serve Jekyll](https://www.sylvaindurand.org/using-github-to-serve-jekyll/)
+
+
+## GitHub
 
 You can use the [editor on GitHub](https://github.com/rms46/WebWeb4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
