@@ -1,4 +1,10 @@
-# 017 Welcome to GitHub Pages
+# STEP by STEP CLUES
+
+* [Ruby-101](https://jekyllrb.com/docs/ruby-101/)
+* [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
+* [How To Install Ruby and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
+* [Jekyll QuickStart](https://jekyllrb.com/docs/)
+  (or [Step by Step](https://jekyllrb.com/docs/step-by-step/01-setup/))
 
 ## JEKYLL
 
@@ -40,8 +46,6 @@ Getting started with GitHub Pages:
 ## ETC
 
 [Markdown Cheat Sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
-
-[How To Install Ruby and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
 [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
