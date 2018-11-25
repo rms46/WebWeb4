@@ -1,14 +1,29 @@
 ---
 layout: default
-title:  STEP by STEP CLUES
+title: VauLSMorg Jekyll's Clues
 ---
-<h1>{{ page.title }}</h1>
+# {{ page.title }}
 
+**WARNING**: These following links are inter-dependable. 
+You might need a couple of iterations to understand all!
+
+## Github Pages
+
+* [Publishing A Single Page](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237)
+* [GitHub Pages Themes](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
+* [Local development with Jekyll](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292)
+
+## Jekyll, Ruby and Bundler
+
+* [How To Install Ruby and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 * [Ruby-101](https://jekyllrb.com/docs/ruby-101/)
 * [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
-* [How To Install Ruby and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
-* [Jekyll QuickStart](https://jekyllrb.com/docs/)
-  (or [Step by Step](https://jekyllrb.com/docs/step-by-step/01-setup/))
+
+## More on Jekyll
+
+* [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+* [Jekyll Step by Step](https://jekyllrb.com/docs/step-by-step/01-setup/)
+  ([QuickStart](https://jekyllrb.com/docs/))
 
 ## JEKYLL
 
@@ -34,13 +49,6 @@ title:  STEP by STEP CLUES
 
 
 ## Readings
-
-Getting started with GitHub Pages: 
-([Part 1](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237))
-([Part 2](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030))
-([Part 3](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292))
-
-[Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
 [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
