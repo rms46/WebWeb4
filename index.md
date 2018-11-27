@@ -5,7 +5,7 @@ title: The VauLSMorg Way
 # {{ page.title }}
 
 **WARNING**: These following links are inter-dependable. 
-You might need a couple of iterations before you will get the whole idea!
+You might need a couple of iterations before you get the whole idea!
 
 * [Github Pages Basics](https://help.github.com/categories/github-pages-basics/)
   ([Configuring](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/))
