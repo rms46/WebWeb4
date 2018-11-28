@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+   <title>The Blog Layout feed</title>
+   <link href="https://websandbox.vlsm.org/blog/atom.xml" rel="self"/>
+   <link href="https://websandbox.vlsm.org/blog/"/>
+   <updated>{{ site.time | date_to_xmlschema }}</updated>
+   <id>http://websandbox.vlsm.org/blog</id>
+   <author>
+      <name>Cical Bin Kadal</name>
+      <email>cbk@vlsm.org</email>
+   </author>
+   {% for post in site.posts %}
+   <entry>
+      <title>{{ post.title }}</title>
+      <link href="http://websandbox.vlsm.org{{ post.url }}"/>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <id>http://websandbox.vlsm.org{{ post.id }}</id>
+      <content type="html">{{ post.content | xml_escape }}</content>
+   </entry>
+   {% endfor %}
+</feed>
+
