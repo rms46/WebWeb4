@@ -2,6 +2,9 @@
 layout: default
 title: The VauLSMorg Way
 ---
+
+[comment]: # (This is the most platform independent comment)
+
 # {{ page.title }}
 
 **WARNING**: These following links are inter-dependable. 
@@ -27,6 +30,7 @@ Last **IMHO**, following [GitHub Learning Lab](https://lab.github.com/) is reall
   * [More Plugins](https://jekyllrb.com/docs/plugins/)
 * [GitHub Pages Themes](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
   * [GitHub Page Themes list](https://github.com/pages-themes)
+    ([Theme List 2](https://pages.github.com/themes/))
   * [Midnight Theme](https://github.com/pages-themes/midnight)
 
 # Tutorial
