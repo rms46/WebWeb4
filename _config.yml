@@ -1,4 +1,4 @@
-title: GitHub Pages and Jekyll (095)
+title: GitHub Pages and Jekyll (097)
 description: > 
    There is a Place --- 
    Lenny Macca (1963) <br />
@@ -13,8 +13,26 @@ theme: jekyll-theme-midnight
 author: Cicak Bin Kadal
 encoding: UTF-8
 timezone: Asia/Jakarta
-
 show_downloads: true
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Google Analytics
 google_analytics: UA-89852122-1
