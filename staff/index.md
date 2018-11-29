@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>Staff</h1>
+# Staff
 
 <ul>
   {% for author in site.authors %}
@@ -12,3 +12,4 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+
