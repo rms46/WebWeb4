@@ -1,4 +1,4 @@
-title: GitHub Pages and Jekyll (104)
+title: GitHub Pages and Jekyll (105)
 description: > 
    There is a Place --- 
    Lenny Macca (1963) <br />
@@ -9,9 +9,9 @@ description: >
    And there's no time...
    When I'm alone.
 
-theme: jekyll-theme-midnight
-github: [metadata]
 author: Cicak Bin Kadal
+theme: jekyll-theme-midnight
+# github: [metadata]
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
