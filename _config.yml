@@ -1,4 +1,4 @@
-title: GitHub Pages and Jekyll (103)
+title: GitHub Pages and Jekyll (104)
 description: > 
    There is a Place --- 
    Lenny Macca (1963) <br />
@@ -10,10 +10,12 @@ description: >
    When I'm alone.
 
 theme: jekyll-theme-midnight
+github: [metadata]
 author: Cicak Bin Kadal
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
+share: true
 collections:
   authors:
     output: true
@@ -42,8 +44,6 @@ plugins:
   - jemoji
 
 # CAN CHANGE
-# theme: jekyll-theme-primer
-# github: [metadata]
 # encoding: UTF-8
 # kramdown:
 #   input: GFM
@@ -62,3 +62,4 @@ plugins:
 # kramdown:
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
+
