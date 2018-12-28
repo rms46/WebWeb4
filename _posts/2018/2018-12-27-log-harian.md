@@ -2,5 +2,5 @@
 layout: post
 author: gtm
 ---
-I love Grounded Theory.
+Today: doing nothing.
 
