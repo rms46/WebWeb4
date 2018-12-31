@@ -11,6 +11,11 @@ title: The VauLSMorg Way
 You might need a couple of iterations before you get the whole idea!
 Last **IMHO**, following [GitHub Learning Lab](https://lab.github.com/) is really a **waste of time**.
 
+# From GitHub Pages to Windows 10 Jekyll
+
+* [The VauLSMorg Way](https://webweb4.vlsm.org/)
+  * [GitHub Pages 101](https://rms46.github.io/webweb6/) -- [GitHub](https://github.com/rms46/webweb6)
+  * [Git for Windows 10](https://rms46.github.io/webweb7/) -- [GitHub](https://github.com/rms46/webweb7)
 * [Github Pages Basics](https://help.github.com/categories/github-pages-basics/)
   * [What is GitHub Pages](https://help.github.com/articles/what-is-github-pages/)
   * [Configuring](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
