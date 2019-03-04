@@ -1,7 +1,6 @@
 ---
 short_name: mrk3
 name: Kamikaze K. Kutakada
-position: Ichinoseki
+position: Yōmuin
 ---
 Mr. K3 is in Japan.
-
