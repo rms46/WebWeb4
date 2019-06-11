@@ -11,7 +11,7 @@ description: >
 
 author: Cicak Bin Kadal
 theme: jekyll-theme-midnight
-# github: [metadata]
+github: [metadata]
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
