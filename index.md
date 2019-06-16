@@ -14,10 +14,10 @@ Last **IMHO**, following [GitHub Learning Lab](https://lab.github.com/) is reall
 # From GitHub Pages to Windows 10 Jekyll
 
 * [The VauLSMorg Way](https://webweb4.vlsm.org/)
-  * [GitHub Pages 101](https://rms46.github.io/webweb6/) -- [GitHub](https://github.com/rms46/webweb6)
-  * [Git for Windows 10](https://rms46.github.io/webweb7/) -- [GitHub](https://github.com/rms46/webweb7)
-  * [Jekyll for Windows 10](https://rms46.github.io/webweb8/) -- [GitHub](https://github.com/rms46/webweb8)
-  * [GitHub Pages 2 Jekyll](https://rms46.github.io/webweb9/) -- [GitHub](https://github.com/rms46/webweb9)
+  * [GitHub Pages 101](https://webjekyll.github.io/webweb6/) -- [GitHub](https://github.com/webjekyll/webweb6)
+  * [Git for Windows 10](https://webjekyll.github.io/webweb7/) -- [GitHub](https://github.com/webjekyll/webweb7)
+  * [Jekyll for Windows 10](https://webjekyll.github.io/webweb8/) -- [GitHub](https://github.com/webjekyll/webweb8)
+  * [GitHub Pages 2 Jekyll](https://webjekyll.github.io/webweb9/) -- [GitHub](https://github.com/webjekyll/webweb9)
 * [Github Pages Basics](https://help.github.com/categories/github-pages-basics/)
   * [What is GitHub Pages](https://help.github.com/articles/what-is-github-pages/)
   * [Configuring](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
